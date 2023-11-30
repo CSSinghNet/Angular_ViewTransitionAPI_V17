@@ -1,4 +1,4 @@
-# Angular17Demos
+# Angular 17 - View Transition API
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.0-next.6.
 
